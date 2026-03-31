@@ -131,8 +131,7 @@ smart-college-portal/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/smart-college-portal.git
-cd smart-college-portal
+git clone https://github.com/srichandanabayya1312/college-registration-portal.git
 ```
 
 ### 2. Install dependencies
