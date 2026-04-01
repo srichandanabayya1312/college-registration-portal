@@ -7,7 +7,7 @@ A full-stack web application built using Flask that simulates a real-world colle
 ## 🚀 Features
 
 ### 👨‍🎓 Student
-
+  
 * Register and login securely
 * View personal dashboard
 * 📊 View attendance (with name, roll number, branch, year)
